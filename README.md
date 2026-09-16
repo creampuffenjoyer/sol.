@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="MilkyWayPortfolio banner" width="100%"/>
+  <img src="docs/banner.png" alt="MilkyWayOS banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ There is more hiding in the filesystem if you go looking with `ls -a` and `cat`.
 ## Contact
 
 <p align="left">
-  <img src="docs/logo.svg" alt="s0L logo" width="56" align="left" style="margin-right:12px"/>
+  <img src="docs/logo.png" alt="s0L logo" width="56" align="left" style="margin-right:12px"/>
   I am always open to talking about security work, CTFs, or interesting projects.
 </p>
 
