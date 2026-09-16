@@ -53,15 +53,6 @@ The desktop is live at [creampuffenjoyer.github.io/sol.](https://creampuffenjoye
 
 React 18 and React DOM are loaded straight from a CDN, JSX is compiled in the browser with Babel Standalone, and everything is plain CSS with custom properties for theming. There is no bundler, no package.json, and no build step. Clone it, serve the folder, and it runs.
 
-## Running it locally
-
-```bash
-git clone https://github.com/creampuffenjoyer/sol..git
-cd sol.
-python -m http.server 8000
-```
-
-Then open `http://localhost:8000` in a browser. That is the entire setup.
 
 ## Try the terminal
 
@@ -88,7 +79,3 @@ There is more hiding in the filesystem if you go looking with `ls -a` and `cat`.
 * Email: josephbenjamin.sollestre@gmail.com
 * GitHub: [github.com/creampuffenjoyer](https://github.com/creampuffenjoyer)
 * TryHackMe: [tryhackme.com/p/fymn](https://tryhackme.com/p/fymn)
-
-<p align="center">
-  <sub>The quieter you become, the more you are able to hear.</sub>
-</p>
