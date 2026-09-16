@@ -19,7 +19,7 @@ window.PORTFOLIO = {
     ],
     links: {
       github:   "github.com/creampuffenjoyer",
-      tryhackme:"tryhackme.com/p/quackasaur",
+      tryhackme:"tryhackme.com/p/fymn",
       email:    "josephbenjamin.sollestre@gmail.com",
       linkedin: "linkedin.com/in/—",
     }

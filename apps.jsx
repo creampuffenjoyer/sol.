@@ -796,7 +796,7 @@ function ResumeApp() {
             <span>✉ josephbenjamin.sollestre@gmail.com</span>
             <span>📍 Infanta, Quezon, Philippines</span>
             <span>⌂ github.com/creampuffenjoyer</span>
-            <span>🏴 tryhackme.com/p/quackasaur</span>
+            <span>🏴 tryhackme.com/p/fymn</span>
           </div>
         </div>
 

@@ -79,7 +79,7 @@ There is more hiding in the filesystem if you go looking with `ls -a` and `cat`.
 
 * Email: josephbenjamin.sollestre@gmail.com
 * GitHub: [github.com/creampuffenjoyer](https://github.com/creampuffenjoyer)
-* TryHackMe: [tryhackme.com/p/quackasaur](https://tryhackme.com/p/fymn)
+* TryHackMe: [tryhackme.com/p/fymn](https://tryhackme.com/p/fymn)
 
 <p align="center">
   <sub>The quieter you become, the more you are able to hear.</sub>
