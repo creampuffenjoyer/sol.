@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="MilkyWayOS banner" width="100%"/>
+  <img src="docs/banner.svg" alt="MilkyWayPortfolio banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ There is more hiding in the filesystem if you go looking with `ls -a` and `cat`.
 
 * Email: josephbenjamin.sollestre@gmail.com
 * GitHub: [github.com/creampuffenjoyer](https://github.com/creampuffenjoyer)
-* TryHackMe: [tryhackme.com/p/quackasaur](https://tryhackme.com/p/quackasaur)
+* TryHackMe: [tryhackme.com/p/quackasaur](https://tryhackme.com/p/fymn)
 
 <p align="center">
   <sub>The quieter you become, the more you are able to hear.</sub>
