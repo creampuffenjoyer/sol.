@@ -53,7 +53,6 @@ The desktop is live at [creampuffenjoyer.github.io/sol.](https://creampuffenjoye
 
 React 18 and React DOM are loaded straight from a CDN, JSX is compiled in the browser with Babel Standalone, and everything is plain CSS with custom properties for theming. There is no bundler, no package.json, and no build step. Clone it, serve the folder, and it runs.
 
-
 ## Try the terminal
 
 Open the Terminal app (it opens automatically on boot) and try a few of these.
