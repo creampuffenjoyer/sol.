@@ -6,7 +6,11 @@
   <img alt="React" src="https://img.shields.io/badge/React-18-60a5fa?style=flat-square&logo=react&logoColor=white&labelColor=0a0d12"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES2020-60a5fa?style=flat-square&logo=javascript&logoColor=white&labelColor=0a0d12"/>
   <img alt="No build step" src="https://img.shields.io/badge/build%20step-none-60a5fa?style=flat-square&labelColor=0a0d12"/>
-  <img alt="Status" src="https://img.shields.io/badge/status-live-5fff87?style=flat-square&labelColor=0a0d12"/>
+  <a href="https://creampuffenjoyer.github.io/sol./"><img alt="Status" src="https://img.shields.io/badge/status-live-5fff87?style=flat-square&labelColor=0a0d12"/></a>
+</p>
+
+<p align="center">
+  <a href="https://creampuffenjoyer.github.io/sol./"><b>Open the live desktop</b></a>
 </p>
 
 ## About this project
@@ -14,6 +18,10 @@
 I am Joseph Benjamin Sollestre, known online as s0L. I am a Computer Science graduate pursuing a career in purple teaming and AI/ML security, an active CTF competitor, and a full stack developer. Instead of shipping another template portfolio site, I built one that behaves like an actual Linux desktop. It boots through a fake GRUB screen, plays a real kernel boot log, drops you at a lock screen, and lands on a working desktop with a window manager, a file system, and a terminal you can actually type in.
 
 Every "app" on the desktop doubles as a section of my resume. The terminal has real commands. The file manager has a real folder tree. The achievements window is a trophy case of the CTF competitions I have placed in. Nothing here is a static image pretending to be interactive.
+
+## Live demo
+
+The desktop is live at [creampuffenjoyer.github.io/sol.](https://creampuffenjoyer.github.io/sol./), served straight from this repo through GitHub Pages with no build step in between.
 
 ## Features
 
@@ -48,8 +56,8 @@ React 18 and React DOM are loaded straight from a CDN, JSX is compiled in the br
 ## Running it locally
 
 ```bash
-git clone https://github.com/creampuffenjoyer/sol.git
-cd sol
+git clone https://github.com/creampuffenjoyer/sol..git
+cd sol.
 python -m http.server 8000
 ```
 
